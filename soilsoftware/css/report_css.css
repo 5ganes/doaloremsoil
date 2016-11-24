@@ -1,0 +1,47 @@
+html, body {
+	margin:2px 0 0 0;
+	padding: 0;
+	cursor: default;
+	font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	line-height:16px;
+}
+
+.left{float: left}
+.right{float: right;}
+.clear{clear: both}
+
+.container{width: 95%; margin: 0 auto}
+.header{width: 100%; height: 80px;}
+.logo{width:25%;}
+.logo img{width: 80px;}
+.title{width: 50%; text-align: center;}
+.title h1, .title h2, .title h3, .title h4, .title h5, .title h6{margin: 0; line-height: 1.5; font-family: 'Roboto Condensed', Sans-serif}
+.title h5{font-size: 8px}
+.title h4, .title h6{font-size: 10px}
+.title h3{font-size: 13px}
+.contact{width: 25%;text-align: right;font-size: 10px; font-weight: bold;line-height: 1.8em}
+
+.subject{text-decoration: underline;margin: 0;font-size: 10px;font-weight: bold;text-align: center;}
+
+.darta_date{margin: 5px 0;font-size: 10px; font-weight: bold}
+
+.member_detail{margin: 8px 0; font-size: 10px; font-weight: bold;line-height: 1.8em;}
+.member_detail .shree{width:33%;}
+
+.soil_status{font-size: 10px;width:100%; margin: 8px 0}
+
+.status_values table tr td{text-align: center;}
+
+.sipharis{font-size: 10px; width: 100%; margin: 10px 0}
+.sipharis_title{text-align: center; font-weight: bold; text-decoration: underline;font-size: 10px}
+.ropani_table{font-size: 10px; width: 100%; margin: 4px 0}
+.ropani_table table tr td li{ margin-left: 5px }
+
+.crop_table table tr td{text-align: center;}
+.crop_table table tr td:first-child{text-align: left;}
+
+.technician_verifier{}
+.technician_verifier div:first-child{float: left}
+.technician_verifier div:nth-child(2){float: right}
