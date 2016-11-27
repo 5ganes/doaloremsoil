@@ -15,7 +15,7 @@
             <th width="7" align="center">कैफियत</th>
             <th width="15" align="center">अप्लोड समय</th>    
           </tr>
-          <? $bill=mysql_query("select * from bills order by weight"); $i=0;
+          <? $bill=mysql_query("select * from bills where publish='Yes' order by weight"); $i=0;
       	  while($billGet=mysql_fetch_array($bill))
       	  {?>
           	<tr bgcolor="#DFDFDF">
