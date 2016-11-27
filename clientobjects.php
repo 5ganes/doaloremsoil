@@ -47,7 +47,11 @@ if (!empty($query)) {
 	$pageRow = $groups->getByURLName($query);
 	if ($pageRow) {
 		
-		$pageLinkType = $pageRow['linkType'];		
+		$pageLinkType = $pageRow['linkType'];
+		if ($pageLinkType == "Link") {
+			header("Location: " . $pageRow['contents']);
+			exit();
+		}		
 	}
 }
 else
