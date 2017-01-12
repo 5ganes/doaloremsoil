@@ -318,7 +318,7 @@ if($_GET['type']=="del")
                                     <td valign="top"><?= $row['district']; ?></td>
                                     
                                     <td valign="top">
-                                      <? if($row['sand_format']=1) echo 'पहाड दोमट'; else if(['sand_format']==2) echo 'तराइ दोमट'; ?>
+                                      <? if($row['sand_format']==1) echo 'पहाड दोमट'; else if($row['sand_format']==2) echo 'तराइ दोमट'; ?>
                                     </td>
                                     <td valign="top"><?= $row['ph_value']; ?></td>
                                     <td valign="top"><?= $row['organic_value']; ?></td>
