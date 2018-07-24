@@ -1,7 +1,5 @@
 <?php
-
 	//error_reporting(0);
-
 	class Dbconn{
 
 		var $host;
@@ -19,16 +17,16 @@
 		
 
 		function Dbconn(){
-
-			$this->host = "localhost";
-
-			$this->uname = "krishwt5_doasoil"; 		
-
-			$this->psw = "5x@c2vLyhtbR";					
-
-			$this->dbname = "krishwt5_doasoil";
-
 			
+			$this->host = "localhost";
+			$this->uname = "root"; 		
+			$this->psw = "";					
+			$this->dbname = "doasoil";
+
+			// $this->host = "localhost";
+			// $this->uname = "krishwt5_doasoil"; 		
+			// $this->psw = "5x@c2vLyhtbR";					
+			// $this->dbname = "krishwt5_doasoil";
 
 			$this->links = mysql_connect($this->host,$this->uname,$this->psw) or die("Sorry, couldnot connect to MySQL Server");
 

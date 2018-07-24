@@ -12,7 +12,8 @@ define("ADMIN_TITLE", "Admin Control Panel");
 
 define("PAGE_TITLE", "Soil Management Directorate");
 
-define("SITE_URL", "http://doasoil.gov.np/");
+// define("SITE_URL", "http://doasoil.gov.np/");
+define("SITE_URL", "http://localhost/doasoil/");
 
 
 
