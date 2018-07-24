@@ -3,3 +3,98 @@
 [11-Jul-2016 07:46:34 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/doasoilg/public_html/data/imager.php on line 61
 [11-Jul-2016 07:46:34 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/doasoilg/public_html/data/imager.php on line 69
 [11-Jul-2016 07:46:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/doasoilg/public_html/data/imager.php on line 105
+[07-Apr-2017 07:12:17] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Apr-2017 07:12:17] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Apr-2017 07:12:17] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Apr-2017 07:12:17] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Apr-2017 07:12:17] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Apr-2017 07:12:55] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Apr-2017 07:12:55] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Apr-2017 07:12:55] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Apr-2017 07:12:55] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Apr-2017 07:12:55] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Apr-2017 07:14:37] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Apr-2017 07:14:37] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Apr-2017 07:14:37] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Apr-2017 07:14:37] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Apr-2017 07:14:37] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[10-May-2018 09:55:03] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[10-May-2018 09:55:03] PHP Warning:  Division by zero in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[10-May-2018 09:55:03] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[10-May-2018 09:55:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[10-May-2018 09:55:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105
+[07-Jun-2018 09:07:45] PHP Warning:  getimagesize(../pics/noimage.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 17
+[07-Jun-2018 09:07:45] PHP Warning:  Division by zero in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 30
+[07-Jun-2018 09:07:45] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 61
+[07-Jun-2018 09:07:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 69
+[07-Jun-2018 09:07:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home1/krishwt5/public_html/doasoil.gov.np/data/imager.php on line 105

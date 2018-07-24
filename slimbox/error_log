@@ -1,0 +1,15 @@
+[10-Sep-2017 08:44:29] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[10-Sep-2017 08:46:55] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:37:57] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:38:03] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:38:46] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:39:30] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:39:34] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:39:41] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:39:51] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:39:56] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:39:58] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Sep-2017 16:40:03] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[30-Sep-2017 09:11:16] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[30-Sep-2017 09:11:16] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[30-Sep-2017 09:11:16] PHP Fatal error:  Unknown: Failed opening required '/home1/krishwt5/public_html/doasoil.gov.np/slimbox/Readme_5.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in Unknown on line 0

@@ -12,7 +12,7 @@ class Pager
  var $pageTitle;
 
  function findStart($page, $limit)
- {	 
+ {   
   if ((!isset($page)) || ($page == "1"))
   {
    $start = 0;
@@ -38,11 +38,11 @@ class Pager
   if (($curpage != 1) && ($curpage)){
    $page_list .= "<a href=".$this->pagename."page=1 title=First Page class=paging>First</a>";
   }
-  	
+    
   if (($curpage-1) > 0){
    $page_list .= "&nbsp;<a href=".$this->pagename."page=".($curpage-1)." title=Previous Page class=paging>Prev</a>&nbsp;";
   }
-  	
+    
   for ($i=1; $i<=$pages; $i++){
    if ($i == $curpage){
     $page_list .= "<b>".$i."</b>";
@@ -55,7 +55,7 @@ class Pager
   if (($curpage+1) <= $pages){
    $page_list .= "<a href=".$this->pagename."page=".($curpage+1)." title=Next Page class=paging>Next</a>";
   }
-  	
+    
   if (($curpage != $pages) && ($pages != 0)){
    $page_list .= " <a href=".$this->pagename."page=".$pages." title=Last Page class=paging>Last</a>";
   }
@@ -79,7 +79,7 @@ $p->pagename = $pagename;
 $p->pageTitle = $pageTitle;
 
 if (!isset($limit))
-	$limit = 10;	// no of records to be displayed in each page
+  $limit = 10;  // no of records to be displayed in each page
 
 $count=$cntorder;
 $MaxPage=$cntorder;

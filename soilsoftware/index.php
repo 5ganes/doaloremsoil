@@ -1,6 +1,5 @@
-<?php 
+<?php
 include("init.php");
-
 if(!isset($_SESSION['sessUserId'])){		//User authentication
 	header("Location: login.php");
 	exit();
